@@ -1,0 +1,15 @@
+body{
+    background-color: #001;
+}
+.menu{
+    background-color: #123;
+}
+.boxed .box{
+    background-color: #123;
+}
+.boxed .box:hover{
+    background-color: rgb(37, 72, 107);
+}
+.data p{
+    color: white;
+}
